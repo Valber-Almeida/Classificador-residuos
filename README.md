@@ -51,6 +51,7 @@ O modelo é capaz de identificar os seguintes tipos de resíduos:
    - `index.html`
    - `styles.css`
    - `script.js`
+   - `package.json`
    - `model.json`
    - `metadata.json`
    - `weights.bin`
