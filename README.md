@@ -2,6 +2,11 @@
 
 Aplicação web interativa para **classificação de resíduos** com uso de **inteligência artificial**, desenvolvida com **TensorFlow.js**. Através de imagens, o sistema identifica diferentes tipos de materiais, promovendo o **descarte consciente e ambientalmente correto**.
 
+
+"Mesmo a menor pessoa pode mudar o curso do futuro."
+
+— Galadriel, O Senhor dos Anéis: A Sociedade do Anel
+
 ---
 
 ## 🚀 Funcionalidades
@@ -125,8 +130,5 @@ Este projeto está licenciado sob a **MIT License** — fique à vontade para us
 
 ---
 
-"Mesmo a menor pessoa pode mudar o curso do futuro."
-
-— Galadriel, O Senhor dos Anéis: A Sociedade do Anel
 
 🎯 Desenvolvido por Valber
